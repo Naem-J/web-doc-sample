@@ -16,6 +16,7 @@ toc: true
 ![Storage and Transportation Setup](storage_setup.svg)
 
 To store or transport the system within the facility, perform the following:
+
 1. Route the camera cable.  
    a. Disconnect the camera cable from the camera.  
    b. Wrap camera cable around the camera cable coil.

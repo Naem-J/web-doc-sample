@@ -15,7 +15,7 @@ toc: true
 
 In addition to reading this user guide, all users must be trained by an Alcon employee or a trainer that has been designated by Alcon. The trainee must be comfortable working as an interface between the doctor and the NGENUITY™ 3D Visualization System, and the trainee must be familiar with pre-operative room and operating room protocols.
 
-**For customers in the U.S.A.**
+##### For customers in the U.S.A.
 
 Federal Law restricts this device to sale by or on the order of a licensed medical practitioner. This equipment has been tested and found to comply with the limits for a Class A digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference when the equipment is operated in a commercial environment. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the instruction manual, may cause harmful interference to radio communications.
 
@@ -23,11 +23,11 @@ You are cautioned that any changes or modifications not expressly approved in th
 
 All interface cables used to connect peripherals must be shielded in order to comply with the limits for a digital device pursuant to Subpart B of Part 15 of FCC Rules. This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 
-**For customers in Canada**
+##### For customers in Canada
 
 The product fulfills the requirements of CAN/CSA-C22.2 No. 60601-1:14.
 
-**For customers in Europe**
+##### For customers in Europe
 
 This product complies with the following standards:
 

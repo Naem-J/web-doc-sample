@@ -18,5 +18,6 @@ The Language system settings control the language the system displays. Contact T
 <img src="sw_system_settings_language.png" width="300px"/>
 
 To change the language, perform the following:
+
 1. In the **Language** drop-down menu, select a language.
 2. Click **Confirm**.

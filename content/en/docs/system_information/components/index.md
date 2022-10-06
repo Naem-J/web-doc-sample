@@ -71,7 +71,8 @@ The system includes both a wired and a wireless keyboard with an integrated touc
 
 ![K830 (Left) and K600 (Right) Wireless Keyboards](keyboard_wireless_both.svg)
 
-{{< callout num="1" term="Power indicator" desc="Lights according to the battery status" >}}
+{{< callout num="1" term="Power indicator" desc="Lights according to the battery status" >}}  
+
 * **Blinking green** &ndash; The battery is charging.  
 * **Solid green** &ndash; The battery has adequate charge.  
 * **Blinking red** &ndash; The battery power is low. Recharge the battery.  
@@ -99,6 +100,7 @@ The footswitch performs basic functions during operation through controls operat
 ## Accessories
 
 The system may include the following accessories:
+
 * **Lens cap** &ndash; Protects the camera lens.
 * **Cable straps** &ndash; Secure the camera cable to the microscope.
 * **Cable hooks** &ndash; Route loose cables or coil cable for storage or transportation.

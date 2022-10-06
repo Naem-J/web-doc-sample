@@ -28,6 +28,7 @@ toc: true
 ![System Power Connection](system_startup.svg)
 
 To power the system, perform the following:
+
 1. Connect the power cable to a hospital-grade power outlet.
 2. Turn on the main power switch. Wait 30 seconds for the system to initialize. The display and software automatically start.
 3. Adjust the height, tilt, and distance of the display according to user preferences.

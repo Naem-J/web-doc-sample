@@ -20,7 +20,9 @@ toc: true
 {{< panel status="warning" title="WARNING" >}}Only factory-authorized personnel should service the system or system components.{{< /panel >}}
 
 {{% panel status="caution" title="CAUTION" %}}
+
 * Do not immerse or expose electrical components to excessive moisture.
 * Do not use harsh cleansers, solvents, or detergents.
 * Do not autoclave any components of the system.
+
 {{% /panel %}}

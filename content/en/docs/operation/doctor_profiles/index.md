@@ -26,6 +26,7 @@ Doctor profiles save customized user settings for optimal visualization. Manage 
 ## Add a Doctor Profile
 
 To create a new doctor profile, perform the following:
+
 1. In the Home panel, select the doctor **Add** button. The New Doctor dialog box opens.
 2. In the Name field, enter a profile name.
 3. To copy settings from another profile, perform the following:

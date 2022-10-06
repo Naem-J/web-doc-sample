@@ -63,14 +63,8 @@ The monitor system settings have adjustable settings for displays connected to t
 
 {{< callout num="1" term="Monitor drop-down menu" desc="Selects a display." >}}  
 {{< callout num="2" term="Primary Monitor toggle switch" desc="Sets the selected display to the primary display." >}}  
-{{< callout num="3" term="View drop-down menu" desc="Sets the content on the screen. Select one of the following:" >}}  
-  * **Control** - Displays the user interface and system camera image.  
-  * **Surgery** - Displays a limited subset of the user interface and system camera image.  
-  * **Camera Only** - Displays the system camera image only.  
-
-
-
-{{< callout num="4" term="3D Format lock button" desc="Unlocks the 3D format options. To edit 3D formatting, click the Unlock button." >}}   
+{{< callout num="3" term="View drop-down menu" desc="Sets the content on the screen. Select Control to display the user interface and system camera image, Surgery to display a limited subset of the user interface and system camera image, or Camera Only to display the system camera image only." >}}  
+{{< callout num="4" term="3D Format lock button" desc="Unlocks the 3D format options. To edit 3D formatting, click the Unlock button." >}}  
 
 ### 3D Format Settings
 
