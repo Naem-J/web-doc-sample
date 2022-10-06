@@ -29,11 +29,9 @@ Change or modifications made to this equipment (including the antenna) not expre
 
 {{% /panel %}}
 
-##### FCC Radiation Exposure Statement
-
 {{% panel status="warning" title="WARNING" %}}
 
-To ensure that the radio transmitter complies with current FCC regulations limiting both maximum output RF power and human exposure to radio frequency radiation, a separate distance of at least 20 cm must be maintained between the unit’s antenna and the body of the user and any nearby persons at all times, and unit’s antenna must not be co-located or operating in conjunction with any other antenna or transmitter.
+FCC Radiation Exposure Statement: To ensure that the radio transmitter complies with current FCC regulations limiting both maximum output RF power and human exposure to radio frequency radiation, a separate distance of at least 20 cm must be maintained between the unit’s antenna and the body of the user and any nearby persons at all times, and unit’s antenna must not be co-located or operating in conjunction with any other antenna or transmitter.
 
 {{% /panel %}}
 
