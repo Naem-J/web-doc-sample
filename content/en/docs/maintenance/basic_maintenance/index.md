@@ -48,7 +48,7 @@ Use the microscope controls to focus the image on-screen. If the image still app
 <img src="camera_alignment_aligned.svg" title="Aligned" width="175px"/>  
 <img src="camera_alignment_misaligned.svg" title="Misaligned" width="400px"/>
 
-7. For additional assistance, contact Technical Services.
+For additional assistance, contact Technical Services.
 
 ## Image Retention
 

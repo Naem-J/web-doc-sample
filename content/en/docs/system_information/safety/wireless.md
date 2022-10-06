@@ -29,7 +29,7 @@ Change or modifications made to this equipment (including the antenna) not expre
 
 {{% /panel %}}
 
-**FCC Radiation Exposure Statement**
+##### FCC Radiation Exposure Statement
 
 {{% panel status="warning" title="WARNING" %}}
 
