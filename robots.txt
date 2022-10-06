@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://naem-j.github.io/web-doc-sample/sitemap.xml
