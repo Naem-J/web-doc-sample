@@ -1,5 +1,5 @@
-baseurl = "https://github.com/Naem-J/web-doc-sample"
-canonifyURLs = false
+baseurl = "https://naem-j.github.io/web-doc-sample/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
